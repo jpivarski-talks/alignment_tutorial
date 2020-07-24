@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Propagating Alignment Measurements}{}
+\BOOKMARK [2][-]{subsection.2.1}{Motivating examples}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{General Alignment Fit}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Error Analysis}{section.2}
+\BOOKMARK [1][-]{section.3}{Measuring Detector Positions with Tracks}{}
+\BOOKMARK [1][-]{section.4}{Realistic Tracking and Diagnostics of Track-Bias}{}
+\BOOKMARK [1][-]{section.5}{CSCOverlapsAlignmentAlgorithm: a Complete Alignment Package}{}
+\BOOKMARK [1][-]{section.6}{Conclusion}{}
+\BOOKMARK [1][-]{appendix.A}{Summarizing Datasets with Running Sums}{}
+\BOOKMARK [2][-]{subsection.A.1}{Mean and Weighted Mean}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.2}{Linear fitting}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.3}{Root-mean-square and Standard Deviation}{appendix.A}
+\BOOKMARK [2][-]{subsection.A.4}{Covariance and Correlation}{appendix.A}
